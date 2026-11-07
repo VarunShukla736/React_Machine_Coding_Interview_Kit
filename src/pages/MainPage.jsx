@@ -15,8 +15,14 @@ const MainPage = () => {
         <Link to="/todo" className="text-green-500 hover:underline">
           TODO
         </Link>
+        <Link to="/contactus" className="text-green-500 hover:underline">
+          Contact Us
+        </Link>
         <Link to="/accordian" className="text-green-500 hover:underline">
           Accordian
+        </Link>
+        <Link to="/trafficlight" className="text-green-500 hover:underline">
+          Traffic Light
         </Link>
       </div>
     </div>
