@@ -24,6 +24,9 @@ const MainPage = () => {
         <Link to="/trafficlight" className="text-green-500 hover:underline">
           Traffic Light
         </Link>
+        <Link to="/user-management" className="text-green-500 hover:underline">
+          User Management
+        </Link>
       </div>
     </div>
   );
